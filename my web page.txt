@@ -1,0 +1,24 @@
+﻿<html>
+<head>
+     <title>About Me</title>
+<body>
+ <h1>MITHUN </h1>
+ 
+ <div>
+ <p>I am a student in GCT coimbatore. I am a mechanical enigineer. My basic hobby is Playing cricket.</p>
+ </div>
+ <div>
+ <h2>My field of Interest</h2>
+ </div>
+ <div>
+ <h3> 1. Cricket </h3>
+ <img src=" https://thumbs.dreamstime.com/b/cricket-bat-ball-26560801.jpg" height=300px width =400px>
+ </div>
+ <div>
+ <h3> 2. Artificial Intelligence and Machine Learning </h3>
+ <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSH3BzglQqCL1dK_VW_RL-F0RjDtJHvbOmQJoaooVZtV3t4udjOvXEP9_HWmBBknIKJtNI&usqp=CAU" height=300px width=400px>
+ </div>
+ <h4>contact me on Linkedin</h4>
+<a href="https://in.linkedin.com/in/mithun-padmanaban-00a27b288">  Linkedin </a>
+</body>
+</html>
